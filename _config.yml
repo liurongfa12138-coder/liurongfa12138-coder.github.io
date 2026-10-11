@@ -1,0 +1,13 @@
+title: Rongfa Liu 的技术博客
+description: 分布式系统、库存架构、稳定性与工程实践
+lang: zh-CN
+url: "https://liurongfa12138-coder.github.io"
+baseurl: ""
+theme: minima
+author:
+  name: Rongfa Liu
+github_username: liurongfa12138-coder
+header_pages:
+  - about.md
+show_excerpts: true
+permalink: /:year/:month/:day/:title/
